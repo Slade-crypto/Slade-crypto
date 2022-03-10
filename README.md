@@ -15,3 +15,5 @@
 </div><br/>
 
 Apaixonado por tecnologia e a cada dia buscando enriquecer o cérebro com conhecimento 😉
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slade-crypto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
