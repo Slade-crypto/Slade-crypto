@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b7611a31bbd3bd230eb8f6808c7b28d3662dd41abbbf3&rid=giphy.gif&ct=s">
 
-#  <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px"> Hello World! <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px">
+#  <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px"> Hello World <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px">
 
 #### Me chamo Renan, tenho 20 anos e moro em Paraguaçu-MG.! 
 ##### Apaixonado por tecnologia e sempre buscando conhecimento! 😉
