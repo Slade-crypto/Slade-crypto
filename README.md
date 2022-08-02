@@ -2,7 +2,8 @@
 
 # Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-#### Me chamo Renan, tenho 20 anos e moro em Paraguaçu-MG.!  
+#### Me chamo Renan, tenho 20 anos e moro em Paraguaçu-MG.! 
+##### Apaixonado por tecnologia e sempre buscando conhecimento! 😉
 
 - 💻 Sofware Dev
 - 📱 Mobile Dev
