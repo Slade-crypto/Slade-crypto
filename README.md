@@ -26,7 +26,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Slade-crypto&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
 
-🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/giovana-simas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/renan-rocha-436ba2128/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 
 ![Snake animation](https://github.com/Slade-crypto/Slade-crypto/blob/output/github-contribution-grid-snake.svg)
