@@ -4,7 +4,9 @@
 
 #### Me chamo Renan, tenho 20 anos e moro em Paraguaçu-MG.!  
 
-- 💻 Desenvolvedor de software
+- 💻 Sofware Dev
+- 📱 Mobile Dev
+- 👨‍💻 Back-End Dev
 
 # technologies: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
