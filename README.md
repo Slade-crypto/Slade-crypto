@@ -1,6 +1,6 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b7611a31bbd3bd230eb8f6808c7b28d3662dd41abbbf3&rid=giphy.gif&ct=s">
 
-# Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+#  <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px"> Hello World! <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px">
 
 #### Me chamo Renan, tenho 20 anos e moro em Paraguaçu-MG.! 
 ##### Apaixonado por tecnologia e sempre buscando conhecimento! 😉
@@ -9,7 +9,7 @@
 - 📱 Mobile Dev
 - 👨‍💻 Back-End Dev
 
-# technologies: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
+# <img src="https://media4.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="35px"> Technologies: <img src="https://media4.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="35px">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
