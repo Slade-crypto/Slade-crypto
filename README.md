@@ -26,4 +26,4 @@
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/giovana-simas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 
-![Snake animation](https://github.com/rafaballerini/Slade-crypto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Slade-crypto/Slade-crypto/blob/output/github-contribution-grid-snake.svg)
