@@ -2,7 +2,7 @@
 
 #  <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px"> Hello World <img src="https://media0.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif?cid=ecf05e477rwru9jqtxw8tanvbnp0v6vgg2sqyklau3v2ioqa&rid=giphy.gif&ct=s" width="50px">
 
-#### Me chamo Renan, tenho 20 anos e moro em Paraguaçu-MG.! 
+#### Me chamo Renan, tenho 21 anos e moro em Paraguaçu-MG.! 
 ##### Apaixonado por tecnologia e sempre buscando conhecimento! 😉
 
 - 💻 Sofware Dev
