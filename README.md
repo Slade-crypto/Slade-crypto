@@ -6,7 +6,7 @@
 ##### Apaixonado por tecnologia e sempre buscando conhecimento! 😉
 
 - 💻 Sofware Dev
-- 📱 Mobile Dev
+- 📱 Flutter Mobile Dev
 - 👨‍💻 Back-End Dev
 
 # <img src="https://media4.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="35px"> Technologies: <img src="https://media4.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="35px">
